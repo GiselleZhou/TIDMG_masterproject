@@ -17,6 +17,11 @@ _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Ima
 
 ---
 
+## 📄 Thesis
+[Read the full dissertation (PDF)](TIDMG_paper.pdf)
+
+---
+
 ## 📘 Project Overview
 
 
