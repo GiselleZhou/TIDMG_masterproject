@@ -19,22 +19,10 @@ _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Ima
 
 ## 📘 Project Overview
 
-TIDMG (Text-Image Driven Motion Generation) is the implementation of my MSc dissertation project.  
-It is a diffusion-based framework that generates 3D human motions from natural language prompts, with **optional scene image conditioning** to improve spatial plausibility.
 
-**Key contributions**
-- **Unified conditioning**: supports both text and image inputs for scene-consistent motion generation.  
-- **Combined Attention Block (CAB)**: merges self- and cross-attention into a single efficient operation.  
-- **Adaptive LayerNorm (AdaLN)**: refines conditioning using timestep and text summary embeddings.  
-- **Prompt normalization**: a lightweight LLM improves robustness to diverse natural language inputs.  
+TIDMG is my MSc project: a diffusion-based model that turns text—optionally with a scene image—into 3D human motion using unified conditioning, a single-pass attention block, and AdaLN. On HumanML3D and a small scene subset it improves alignment/diversity and lowers compute. This repo includes quick demos, visualization, and setup instructions.
 
-**Results (summary)**  
-On HumanML3D and a curated scene-augmented subset, TIDMG achieves:
-- Better semantic alignment (higher R-Precision, lower Multimodal Distance)  
-- Improved diversity and multimodality of generated motions  
-- Lower compute cost vs. separate self/cross attention stacks  
 
-This repository provides demo scripts, visualization tools, and instructions to reproduce results.
 
 ---
 
