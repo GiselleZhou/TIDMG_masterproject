@@ -5,10 +5,10 @@
 _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Image Driven Motion Generation with Unified Attention and Adaptive Conditioning**)_
 
 ### A person got down and is crawling across the floor
-![Crawling Demo](media/crawling_I.gif)
+![Crawling Demo](example/crawling_I.gif)
 
 ### A person walks forward with wide steps
-![Walking Demo](media/walk_I.gif)
+![Walking Demo](example/walk_I.gif)
 
 ### 🎥 Demo: Running TIDMG Code
 👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/file/d/1xPU2J5OJysevHOSKSHXdy6j3jp9G9VS0/view?usp=drive_link)
