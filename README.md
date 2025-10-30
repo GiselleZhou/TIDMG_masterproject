@@ -22,7 +22,7 @@ Because the codes files are too much and keep failed when uploading on github(pr
 ---
 
 ### 🎥 Demo: Running TIDMG Code
-👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
+👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/file/d/1kbeGlJqJrZdj9OJJETQYtZ6P0EJO8G2r/view?usp=sharing)
 
 
 
@@ -47,7 +47,7 @@ TIDMG is my MSc project: a diffusion-based model that turns text—optionally wi
 
 - **Scene subset (scene images dataset / demo video)**:  
   👉 **[Google Drive Folder](### 🎥 Demo: Running TIDMG Code
-👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
+👉 [**Get the Scene Dataset on Google Drive**](https://drive.google.com/drive/folders/1DpqCr_h2FyTUEWEhVeBfKHTtq7GMW8qW?usp=drive_link)
 )**
 
 - **HumanML3D (official data source for text–motion pairs)**:  
