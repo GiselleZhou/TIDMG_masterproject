@@ -35,7 +35,9 @@ TIDMG is my MSc project: a diffusion-based model that turns text—optionally wi
 ## 📦 Demo & Dataset
 
 - **Scene subset (images / configs / demo video)**:  
-  👉 **[Google Drive Folder](http://google.com/drive/u/0/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3)**
+  👉 **[Google Drive Folder](### 🎥 Demo: Running TIDMG Code
+👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
+)**
 
 - **HumanML3D (official data source for text–motion pairs)**:  
   👉 **[Kaggle: HumanML3D](https://www.kaggle.com/datasets/mrriandmstique/humanml3d)**
