@@ -15,7 +15,6 @@ _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Ima
 
 
 
-</div>
 
 ---
 
