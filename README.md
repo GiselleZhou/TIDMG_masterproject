@@ -34,7 +34,7 @@ TIDMG is my MSc project: a diffusion-based model that turns text—optionally wi
 
 ## 📦 Demo & Dataset
 
-- **Scene subset (images / configs / demo video)**:  
+- **Scene subset (scene images dataset / demo video)**:  
   👉 **[Google Drive Folder](### 🎥 Demo: Running TIDMG Code
 👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
 )**
