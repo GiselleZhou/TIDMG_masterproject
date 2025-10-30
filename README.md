@@ -11,7 +11,7 @@ _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Ima
 ![Walking Demo](example/walk_I.gif)
 
 ### 🎥 Demo: Running TIDMG Code
-👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
+👉 [**Watch Demo Video on Google Drive**]([https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link))
 
 </div>
 
