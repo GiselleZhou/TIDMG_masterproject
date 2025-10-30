@@ -10,6 +10,17 @@ _A research implementation of my MSc dissertation (full title: **TIDMG: Text-Ima
 ### A person walks forward with wide steps
 ![Walking Demo](example/walk_I.gif)
 
+
+---
+
+### Codes
+
+Because the codes files are too much and keep failed when uploading on github(probably because of the Chinese Internet), I put the codes in the drive folder.
+[**Get the Codes on Google Drive**](https://drive.google.com/drive/folders/1Hycy0FFxAuoYMY7_htfN0C3LDuoO7sid?usp=drive_link)
+
+
+---
+
 ### 🎥 Demo: Running TIDMG Code
 👉 [**Watch Demo Video on Google Drive**](https://drive.google.com/drive/folders/1PjbXxfaFSeDkgsR7ml3aRiVnTD6GNjP3?usp=drive_link)
 
@@ -32,7 +43,7 @@ TIDMG is my MSc project: a diffusion-based model that turns text—optionally wi
 
 ---
 
-## 📦 Demo & Dataset
+## 📦 Dataset
 
 - **Scene subset (scene images dataset / demo video)**:  
   👉 **[Google Drive Folder](### 🎥 Demo: Running TIDMG Code
